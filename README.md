@@ -26,5 +26,5 @@ Android News app built using kotlin and implemented MVVM architecture. It reques
 
  
 ## 🔗 APK Link
-[Link](https://drive.google.com/file/d/1U-4OPRuQ3YWhDOHDibgLWpWhcH5EmdXC/view?usp=drivesdk)
+[Link](https://drive.google.com/file/d/10rmTC56zYq9yPvrjw0M_87E92DXXTMg7/view?usp=share_link)
 
